@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrauthentik
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning DevOps, C and othes
-- 💞️ I’m looking to collaborate on this platform and boost my efficency
+- 🌱 I’m currently learning DevOps, C, and others
+- 💞️ I’m looking to collaborate on this platform and boost my efficiency
 - 📫 How to reach me github.com/mrauthenik
 
 <!---
