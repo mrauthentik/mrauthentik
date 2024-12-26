@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @mrauthentik
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning DevOps, C, and others
-- 💞️ I’m looking to collaborate on this platform and boost my efficiency
-- 📫 How to reach me github.com/mrauthenik
+👋 Hi, I’m @mrauthentik
+👀 Passionate about building scalable and efficient web applications
+💻 Skilled in JavaScript, React (with TypeScript), Node.js, and Express
+🌱 Currently diving into DevOps and exploring C to expand my skill set
+💡 Open to collaboration on exciting projects that drive innovation
+📫 Let’s connect and create something amazing: github.com/mrauthentik
 
-<!---
-mrauthentik/mrauthentik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
