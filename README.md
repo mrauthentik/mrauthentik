@@ -10,7 +10,7 @@
 ---
 
 ### 🌟 Fun Fact  
-Did you know? The first computer "bug" was an actual moth found in a Harvard Mark II computer in 1947. 🦋
+Did you happen to know? The first computer "bug" was a moth found in a Harvard Mark II computer in 1947. 🦋
 
 ---
 
@@ -22,11 +22,16 @@ Did you know? The first computer "bug" was an actual moth found in a Harvard Mar
 ---
 
 ### 🛠️ Languages & Tools  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)  
 ![React](https://img.shields.io/badge/React-skyblue?logo=react)  
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)  
-![Express.js](https://img.shields.io/badge/Express-gray?logo=express)  
+![Express.js](https://img.shields.io/badge/Express-gray?logo=express) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?logo=c)  
 ![DevOps](https://img.shields.io/badge/DevOps-azure?logo=linux)  
 
