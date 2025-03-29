@@ -53,8 +53,8 @@ The term "computer bug" came from a literal moth causing issues in a Harvard Mar
 #### **Cybersecurity & DevOps**  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-azure?style=for-the-badge&logo=linux&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 ---
 
