@@ -11,7 +11,7 @@
   - **Backend:** Node.js, Express.js  
   - **Databases:** MongoDB, Firebase  
   - **Smart Contracts:** Solidity  
-  - **Other Tools:** DevOps, C  
+  - **Other Tools:** Arduino 
 - 🌱 Currently expanding my horizons into **Web3** and **Blockchain Technology**, while exploring **Cybersecurity** to secure applications and systems.  
 - 💡 Open to collaborating on **innovative projects** in **Web3**, **FinTech**, and **Cybersecurity**.  
 
