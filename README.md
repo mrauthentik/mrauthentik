@@ -45,6 +45,7 @@ The term "computer bug" came from a literal moth causing issues in a Harvard Mar
 
 #### **Databases**  
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 #### **Web3 & Blockchain**  
